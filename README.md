@@ -6,7 +6,7 @@ I am a self taught developer who previously worked in IT as a computer repair te
 - 🔭 I’m currently working on: Getting clients who need a site constructed
 - 🌱 I’m currently learning:   Wordpress, PHP, & Python
 - 💬 Ask me about:             Coding, or building websites, SEO principles, basketball trivia, kickboxing, fine art, or cars!
-- 📫 How to reach me:          hi@Louiep.com
+- 📫 How to reach me:          [Hi] louie@Louiep.com
 - ⚡ Fun fact:                 I also have a degree in Psychology
 
 <!--
